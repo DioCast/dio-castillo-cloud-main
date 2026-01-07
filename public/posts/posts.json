@@ -72,7 +72,7 @@
         "date": "January 3rd, 2026",
         "snippet": "I tried to outsmart the dinosaurs with a cheap masking trick. They crashed right through it. Here is the story of how I ended up building three Load Balancers to control the traffic.",
         "link": "blog.html#load-balancer-stampede",
-        "featured": true,
+        "featured": false,
         "tags": [
             "#LoadBalancing",
             "#CostManagement",
@@ -89,7 +89,7 @@
         "date": "January 4th, 2026",
         "snippet": "I thought the Terraform T-Rex was the only danger. I was wrong. In the deep jungle of the Cloud Resume Challenge, I was ambushed by a silent, invisible killer.",
         "link": "blog.html#veloci-error13-raptor",
-        "featured": true,
+        "featured": false,
         "tags": [
             "#CloudBuild",
             "#Python",
