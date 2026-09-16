@@ -232,7 +232,7 @@ ul {
 .badges-section {
     text-align: center;
     padding: 20px 0;
-    background: #fff;
+   
     /* Match the other sections */
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -241,12 +241,19 @@ ul {
 
 .badges-container {
     display: flex;
+    background: #fff;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     /* Allows wrapping on smaller screens */
     gap: 30px;
     /* Space between badges */
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-top: 5px solid #0056b3;
+    text-align: center;
+    transition: transform 0.2s;
 }
 
 .badge-image {
