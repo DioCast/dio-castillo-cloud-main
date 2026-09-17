@@ -1,0 +1,144 @@
+[
+    {
+        "id": "ctrl-alt-cloud",
+        "number": "01",
+        "title": "CTRL-ALT-CLOUD: Rebooting a 20-Year Career",
+        "date": "December 16th, 2025",
+        "snippet": "In the Windows world, when the system freezes or slows down, you have one universal reflex: Ctrl + Alt + Del. After 20 years in .NET, I realized I needed a hard reboot.",
+        "file": "01-ctrl-alt-cloud.md",
+        "featured": false,
+        "tags": [
+            "#CtrlAltCloud",
+            "#GoogleNext2025",
+            "#VeteransInTech",
+            "#CloudResumeChallenge",
+            "#AJourneyToTheClouderSide"
+        ]
+    },
+    {
+        "id": "terraform-asaurus-rex",
+        "number": "02",
+        "title": "Enter the Terraform-asaurus Rex: Taming Infrastructure as Code",
+        "date": "December 19th, 2025",
+        "snippet": "To prove I’m ready for enterprise-scale cloud computing, I had to leave the petting zoo and learn Infrastructure as Code. Enter the Terraform-asaurus Rex.",
+        "file": "02-terraform-asaurus-rex.md",
+        "featured": false,
+        "tags": [
+            "#Terraform",
+            "#IaC",
+            "#GoogleCloud",
+            "#NoClickOps"
+        ]
+    },
+    {
+        "id": "automated-dino-feeder",
+        "number": "03",
+        "title": "The Automated Dino Feeder: CI/CD Pipeline",
+        "date": "December 22nd, 2025",
+        "snippet": "In the DevOps world, manual deployments are called 'toil.' In my head, I call it 'hand-feeding the dinosaur.' Sure, it works. But eventually, you’re going to slip...",
+        "file": "03-automated-dino-feeder.md",
+        "featured": false,
+        "tags": [
+            "#CICD",
+            "#DevOps",
+            "#CloudBuild",
+            "#LazyEngineer",
+            "#AutomatedFeeder"
+        ]
+    },
+    {
+        "id": "dimarc-migration",
+        "number": "04",
+        "title": "The Great Meso-DiMarC-zoic Migration",
+        "date": "December 30th, 2025",
+        "snippet": "For years, my business lived in the 'Tar Pits' of legacy hosting. Then the hackers came. Here is how I airlifted DiMarC to the Google Cloud sanctuary.",
+        "file": "04-dimarc-migration.md",
+        "featured": false,
+        "tags": [
+            "#Migration",
+            "#Firebase",
+            "#CloudArchitecture",
+            "#LegacyToCloud"
+        ]
+    },
+    {
+        "id": "load-balancer-stampede",
+        "number": "05",
+        "title": "The Global Stampede Diverter: Three Expensive Lessons",
+        "date": "January 3rd, 2026",
+        "snippet": "I tried to outsmart the dinosaurs with a cheap masking trick. They crashed right through it. Here is the story of how I ended up building three Load Balancers to control the traffic.",
+        "file": "05-load-balancer-stampede.md",
+        "featured": false,
+        "tags": [
+            "#LoadBalancing",
+            "#CostManagement",
+            "#GoDaddy",
+            "#EnterpriseArchitecture",
+            "#CloudFail"
+        ]
+    },
+    {
+        "id": "veloci-error13-raptor",
+        "number": "06",
+        "title": "The Veloci-error13-raptor: Ambushed by \"Clever Girls\"",
+        "date": "January 4th, 2026",
+        "snippet": "I thought the Terraform T-Rex was the only danger. I was wrong. In the deep jungle of the Cloud Resume Challenge, I was ambushed by a silent, invisible killer.",
+        "file": "06-veloci-error13-raptor.md",
+        "featured": false,
+        "tags": [
+            "#CloudBuild",
+            "#Python",
+            "#Error13",
+            "#MesozoicWorld",
+            "#Debugging",
+            "#Terraform"
+        ]
+    },
+    {
+        "id": "building-the-field-guide",
+        "number": "07",
+        "title": "The Field Guide: Charting the Uncharted with Vanilla JS",
+        "date": "January 6th, 2026",
+        "snippet": "My artifacts were scattered and my future expeditions into AI needed a map. Instead of building a heavy fortress, I opted for a lightweight expedition log. Here is how I mapped the cloud using JSON.",
+        "file": "07-building-the-field-guide.md",
+        "featured": false,
+        "tags": [
+            "#ExpeditionLog",
+            "#Serverless",
+            "#VanillaJS",
+            "#DigitalCartography"
+        ]
+    },
+    {
+        "id": "escaping-the-tar-pits",
+        "number": "08",
+        "title": "Escaping the Tar Pits: The Airlift of 'Amaze & Wonder'",
+        "date": "January 8th, 2026",
+        "snippet": "Legacy hosting is a swamp. To save a client's site, I had to airlift a complex React app out of the WordPress mud and into the sanctuary of Firebase. Here is the rescue log.",
+        "file": "08-escaping-the-tar-pits.md",
+        "featured": false,
+        "tags": [
+            "#CloudMigration",
+            "#ReactJS",
+            "#Firebase",
+            "#EscapingTheTarPits",
+            "#DiMarCWatchTower"
+        ]
+    },
+    {
+        "id": "naut-ai-lus-pivot",
+        "number": "09",
+        "title": "20,000 Booking Leads Under the Sea: The Naut-AI-lus Pivot",
+        "date": "September 15th, 2026",
+        "snippet": "Having successfully rescued the Amaze and Wonder flagship, my spyglass immediately caught sight of a new frontier: engineering an end-to-end, serverless event management vessel.",
+        "file": "09-naut-ai-lus-pivot.md",
+        "featured": true,
+        "tags": [
+            "#GoogleCloud",
+            "#GeminiAI",
+            "#ReactJS",
+            "#Firestore",
+            "#Serverless"
+        ]
+    }
+]
