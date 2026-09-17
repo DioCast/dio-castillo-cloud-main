@@ -23,7 +23,7 @@ async function initFieldGuide() {
   try {
     const manifest = await getManifest();
     const urlParams = new URLSearchParams(window.location.search);
-    const requestedLogId = urlParams.get("log");
+    const requestedLogId = urlParams.get("log_entry");
 
     let activeLog = manifest.find((post) => post.id === requestedLogId);
     if (!activeLog) {
@@ -61,7 +61,7 @@ async function loadAndRenderPost(metaData, container) {
                 ${
                   prevPost
                     ? `
-                <a href="?log=${prevPost.id}" class="nav-link" data-log-id="${prevPost.id}">
+                <a href="?log_entry=${prevPost.id}" class="nav-link" data-log-id="${prevPost.id}">
                     <div class="nav-arrow-circle">←</div>
                     <div class="nav-text-container">
                         <span class="nav-label">Previous Log Entry</span>
@@ -75,7 +75,7 @@ async function loadAndRenderPost(metaData, container) {
                 ${
                   nextPost
                     ? `
-                <a href="?log=${nextPost.id}" class="nav-link next-link" data-log-id="${nextPost.id}">
+                <a href="?log_entry=${nextPost.id}" class="nav-link next-link" data-log-id="${nextPost.id}">
                     <div class="nav-text-container right-align">
                         <span class="nav-label">Next Log Entry</span>
                         <span class="nav-title">${nextPost.title}</span>
@@ -128,14 +128,14 @@ async function navigateToLog(logId) {
   if (!targetLog) return;
 
   // Update browser URL without triggering a full page reload
-  window.history.pushState({ logId }, "", `?log=${logId}`);
+  window.history.pushState({ logId }, "", `?log_entry=${logId}`);
   await loadAndRenderPost(targetLog, container);
 }
 
 // Handle browser Back / Forward buttons
 window.addEventListener("popstate", (event) => {
   const urlParams = new URLSearchParams(window.location.search);
-  const requestedLogId = urlParams.get("log");
+  const requestedLogId = urlParams.get("log_entry");
   if (requestedLogId) {
     navigateToLog(requestedLogId);
   }
@@ -170,7 +170,7 @@ function setupSidebar() {
       content.innerHTML = manifest
         .map(
           (post) => `
-                <a href="?log=${post.id}" class="toc-item" data-log-id="${post.id}">
+                <a href="?log_entry${post.id}" class="toc-item" data-log-id="${post.id}">
                     <span class="toc-item-snippet">LOG ENTRY #${post.number} • ${post.date}</span></br>
                     <span class="toc-item-title"><strong>${post.title}</strong></span>
                 </a>
