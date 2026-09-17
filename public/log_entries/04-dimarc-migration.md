@@ -67,4 +67,4 @@ Now, my business site is safe in the Sanctuary. But my personal resume site? It'
 
 The vacation in the Sanctuary is over. It's time to head back to the jungle and finish the Resume Challenge.
 
-On the Horizon: **The Global Stampede Diverter**. We are installing an External Load Balancer to manage the traffic and finally giving the T-Rex a proper HTTPS domain name.
+On the Horizon: **The Global Stampede Diverter**. I am installing an External Load Balancer to manage the traffic and finally giving the T-Rex a proper HTTPS domain name.

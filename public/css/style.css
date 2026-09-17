@@ -133,10 +133,10 @@ ul {
 .hero-prologue {
     max-width: 800px;
     margin: 20px auto 0 auto;
-    font-size: 0.95rem;
-    font-weight: 300; /* Forces the text to be thin/light */
+    font-size: 0.60rem;
+    font-weight: 150; /* Forces the text to be thin/light */
     color: #7b85a3;   /* A shade darker/more muted than the h2 */
-    line-height: 1.8;
+    line-height: 1.35;
     font-style: italic;
 }
 
@@ -901,10 +901,11 @@ ul {
     background: transparent;
     color: #64ffda;
     border: 1px solid #64ffda;
-    padding: 8px 15px;
+    padding: 11px 15px;
     border-radius: 4px;
     cursor: pointer;
     font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
     transition: all 0.3s ease;
 
     /* CRITICAL: Static ensures it sits inside the blue bar, not the corner */

@@ -25,14 +25,14 @@ I chose **Google Firebase** as our extraction vessel. However, unlike previous r
 
 For travelers like **Savannah Kennick**, or my own daughters **Mikee and Nikki Castillo** (aspiring actresses), I had built simple, sturdy rafts using plain HTML, CSS, and Vanilla JS. Those launched effortlessly.
 
-But **Amaze and Wonder** was a complex machine. Because we used React, the launch sequence was intricate:
+But **Amaze and Wonder** was a complex machine. Because I used React, the launch sequence was intricate:
 
 1. **Refining the Fuel:** I had to run the `npm` processes—compiling dependencies and previewing the build in a local development simulator.
 2. **Pressurizing the Cabin:** The build process (`npm run build`) took time. It wasn't the instant "copy-paste" of the static sites; it required patience as the code was bundled and optimized for flight.
 
 ### The Result: Operational Efficiency
 
-Once the build was complete, we executed `firebase deploy`. The result was a clean escape.
+Once the build was complete, I executed `firebase deploy`. The result was a clean escape.
 
 - **Cost Control:** We eliminated the arbitrary $225 hosting toll. We no longer pay for dormant server space; we pay only for value.
 - **Security:** The "Secure Lock" (SSL) was forged automatically.

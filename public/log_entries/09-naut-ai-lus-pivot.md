@@ -12,22 +12,22 @@ _The chaotic ocean maelstrom of email._
 
 The client's existing communications flowed into a singular, chaotic vortex—a surface tempest where fan mail, general queries, and lucrative event bookings swirled indiscriminately. Their daily navigational routine was exhausting: constantly manning the signal telegraph to intercept incoming dispatches, engaging in endless back-and-forth parleys to nail down exact event coordinates, and hand-cranking the Eventbrite registration-engine to forge admission tokens.
 
-While the masters of illusion initially suggested lashing together a makeshift raft of third-party contraptions—the disjointed ledgers of Notion, the sorting-grids of Airtable, and the external logbooks of Google Sheets—to survive the chaos, a proper expedition demanded a seaworthy vessel. The true requirement was to forge a dedicated Event Planner Hub. We needed a unified helm that could filter the noise from the precious cargo and grant the proprietors of the troupe absolute, effortless control over their thaumaturgical calendar without being continually battered by the elements.
+While the masters of illusion initially suggested lashing together a makeshift raft of third-party contraptions—the disjointed ledgers of Notion, the sorting-grids of Airtable, and the external logbooks of Google Sheets—to survive the chaos, a proper expedition demanded a seaworthy vessel. The true requirement was to forge a dedicated Event Planner Hub. They needed a unified helm that could filter the noise from the precious cargo and grant the proprietors of the troupe absolute, effortless control over their thaumaturgical calendar without being continually battered by the elements.
 
 ### The Proposal: Blueprint for the Naut-AI-lus
 
 ![Nautilus serverless architecture blueprint](images/nautilus.jpeg)
 _A serverless architecture blueprint._
 
-To navigate this maelstrom, we engineered an end-to-end management vessel built entirely within the Google Cloud shipyard—a sleek, pressure-proof architecture capable of gliding through the chaos autonomously.
+To navigate this maelstrom, I engineered an end-to-end management vessel built entirely within the Google Cloud shipyard—a sleek, pressure-proof architecture capable of gliding through the chaos autonomously.
 
-- **The Intake (The Pneumatic Dispatch):** Instead of forcing prospective patrons to manipulate the stiff levers of a multi-page questionnaire, we forged a frictionless intake valve. Prospective patrons could simply drop a natural, free-flowing dispatch into the tube, describing their engagement in their own words.
+- **The Intake (The Pneumatic Dispatch):** Instead of forcing prospective patrons to manipulate the stiff levers of a multi-page questionnaire, I forged a frictionless intake valve. Prospective patrons could simply drop a natural, free-flowing dispatch into the tube, describing their engagement in their own words.
 - **The Pipeline (The Analytical Automaton):** Deep within the hull, Google's Gemini AI served as our analytical automaton. It intercepted the raw currents of text and automatically distilled the vital coordinates—contact details, dates, venue, event type, and audience size. Unstructured chaos was instantly transmuted into clean, actionable intelligence.
 
 ![A complex brass and glass analytical automaton](images/automaton.jpeg)
 _A complex brass and glass analytical automaton_
 
-- **The Dashboard (The Bespoke React Helm):** We initially considered leasing a prefabricated AppSheet control room, but the recurring monthly docking tributes offended our engineering sensibilities. Instead, we hand-forged a secure, custom React admin bridge. The distilled leads were routed directly to this mobile-friendly helm, granting the Captain the power to review, authorize, or dismiss proposed mystifications with a mere tap of a brass toggle—all while keeping operational overhead near zero.
+- **The Dashboard (The Bespoke React Helm):** I initially considered leasing a prefabricated AppSheet control room, but the recurring monthly docking tributes offended our engineering sensibilities. Instead, I hand-forged a secure, custom React admin bridge. The distilled leads were routed directly to this mobile-friendly helm, granting the Captain the power to review, authorize, or dismiss proposed mystifications with a mere tap of a brass toggle—all while keeping operational overhead near zero.
 
 ![A steampunk submarine control helm](images/helm.jpeg)
 _The Bespoke React Helm_
@@ -79,4 +79,4 @@ _For the modern engineer or inspecting admiralty, the following translations map
 
 Astute observers of our logs may note a prolonged gap in the chronicle. Only a few months ago, my plan was to construct the DiMarC WatchTower—a permanent vanguard engineered to monitor the fiery environmental dangers of this new frontier. Alas, that venture was forced into a temporary hibernation when the mechanical gears of our Claude MCP integration seized in an administrative stalemate.
 
-On the Horizon: With our momentum now fully restored, we break camp to complete the tower. Utilizing a synthesis of geospatial engineering and cloud technology, **The DiMarC WatchTower** will ensure that the moment smoke rises on the horizon, we are the first to know. Yet, before we ascend the heights, I must embark on a brief side quest to **Re-bind and Restructure the pages of this Field Guide**.
+On the Horizon: With our momentum now fully restored, I break camp to complete the tower. Utilizing a synthesis of geospatial engineering and cloud technology, **The DiMarC WatchTower** will ensure that the moment smoke rises on the horizon, we are the first to know. Yet, before I ascend the heights, I must embark on a brief side quest to **Re-bind and Restructure the pages of this Field Guide**.
