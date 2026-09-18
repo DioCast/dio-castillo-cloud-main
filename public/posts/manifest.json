@@ -140,5 +140,21 @@
             "#Firestore",
             "#Serverless"
         ]
+    },
+    {
+        "id": "escaping-the-infinite-scroll",
+        "number": "10",
+        "title": "Traveling Light-er: Escaping the Infinite Scroll",
+        "date": "September 17th, 2026",
+        "snippet": "When I first established this Expedition Journal, I designed it in the manner of an ancient Icelandic scroll—a continuous, monolithic parchment...",
+        "file": "10-escaping-the-infinite-scroll.md",
+        "featured": false,
+        "tags": [
+            "#Firebase",
+            "#FetchAPI",
+            "#vanillaJavaScript",
+            "#SinglePageApplication",
+            "#Markdown"
+        ]
     }
 ]

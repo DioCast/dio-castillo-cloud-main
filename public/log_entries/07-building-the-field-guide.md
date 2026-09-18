@@ -6,13 +6,13 @@ My artifacts were scattered—a Resume buried in a Storage Bucket, a Consultancy
 
 Worse, I saw new continents on the horizon that I intended to explore: **Geospatial AI Mapping**, **Agentic AI** swarms built on .NET, and **Deep Research** probes. I knew that without a central map, these future discoveries would be lost in the void.
 
-I didn't just need a blog. I needed a Compass. I needed a **Field Guide**.
+I didn't just need a journal. I needed a Compass and a portfolio. I needed a **Field Guide**.
 
 ### The Trap: The Steam-Powered Behemoth
 
 The instinct of the Old World is to build heavy machinery. To spin up a massive Database or a complex Framework just to record a day's travel. But why drag a cast-iron steam engine up a mountain when a notebook will suffice?
 
-To build this Field Guide (the site you are reading now), I realized I didn't need a fortress. I needed a **"Headless Dinosaur"**—agile, swift, and stripped of all unnecessary weight.
+To build this Field Guide (the site you are reading now) and Journal, I realized I didn't need a fortress. I needed a **"Headless Dinosaur"**—agile, swift, and stripped of all unnecessary weight.
 
 ### The Solution: The Expedition Log (JSON)
 
@@ -20,7 +20,7 @@ I abandoned the idea of complex databases. Instead, I established a single ledge
 
 ### The Automaton: A Clockwork Scout
 
-To interpret this log, I constructed a small automaton—a script of pure Vanilla JavaScript (`main.js`). It serves two vital functions:
+To interpret this journal, I constructed a small automaton—a script of pure Vanilla JavaScript (`main.js`). It serves two vital functions:
 
 - **The Scout:** It runs ahead to the Landing Zone, identifying the latest discovery and presenting it to visitors immediately.
 - **The Archivist:** On the Journal page, it unfurls the entire history of the expedition, chronologically stitching the records into a seamless narrative.
@@ -31,7 +31,7 @@ I established this Field Guide at the **Base Camp** of Firebase. It serves as a 
 
 ### The Result: Traveling Light
 
-The result is a digital companion that requires no fuel to run and costs **$0** to maintain. When I make a discovery, I simply scribble an entry in the JSON expedition log, secure the kit (`git push`), and the Field Guide updates itself.
+The result is a digital companion that requires no fuel to run and costs **$0** to maintain. When I make a discovery, I simply scribble an entry in the JSON expedition journal, secure the kit (`firebase deploy`), and the Field Guide updates itself.
 
 ---
 

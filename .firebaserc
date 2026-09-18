@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "dio-castillo-cloud-main"
-  }
+  },
+  "targets": {
+    "dio-castillo-cloud-main": {
+      "hosting": {
+        "portfolio": [
+          "dio-castillo-cloud-main"
+        ],
+        "blog": [
+          "dio-castillo-cloud-blog"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
